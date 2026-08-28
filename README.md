@@ -80,5 +80,7 @@ else:
 ```
 
 ## Output
+<img width="740" height="462" alt="image" src="https://github.com/user-attachments/assets/9839f314-7bec-459b-a8d6-231c4cc2bcc9" />
 
 ## Result
+Thus the program is implemented and executed successfully.
